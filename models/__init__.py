@@ -1,0 +1,2 @@
+from models.clip_linear import CLIPLinear
+from models.clip_linear_precompute import CLIPLinearPrecomputed
